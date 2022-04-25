@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "JCalculator",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
